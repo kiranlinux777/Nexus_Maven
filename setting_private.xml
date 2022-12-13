@@ -9,7 +9,7 @@
     <server>
       <id>nexusdeploymentrepo</id>
       <username>admin</username>
-      <password>admin123</password>
+      <password>admin</password>
     </server>
   </servers>
   <mirrors>
